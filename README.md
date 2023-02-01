@@ -12,7 +12,7 @@
 <!-- Social network -->
 <p style="margin-top: 50px;">
     <p align="left">
-        <a href="https://twitter.com/albertollamass" target="blank"><img src="https://img.shields.io/twitter/follow/LexQDev?logo=twitter&style=for-the-badge" alt="albertollamass" /></a>
+        <a href="https://twitter.com/albertollamass" target="blank"><img src="https://img.shields.io/twitter/follow/albertollamass?logo=twitter&style=for-the-badge" alt="albertollamass" /></a>
     </p>
     <p align="left">
         <a href="https://dev.to/albertollamass" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="albertollamass" /></a>
