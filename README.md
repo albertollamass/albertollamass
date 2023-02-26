@@ -6,7 +6,7 @@
 <p style="margin: 15px;" align="center">
     <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=React.js;Gatsby.js;Flutter;PHP;Django;Ruby+on+Rails" alt="Typing SVG" />
     <h3 align="center">I am a software engineer and I am dedicated to create and improve applications, write the occasional article or tutorial and I keep learning every day about web development and enjoy working with agile methods such as Scrum.</h3><br/>
-    <i>I could charge students to access my work throught this years in my degree, however I do believe in free learning so you can find all the content I have produced <a href="https://github.com/albertollamass/INFORMATICA">here</a>. </i>  
+    <i>I could charge students to access my work throught this years in my degree, however I do believe in free learning so you can find all the content I have produced <a href="https://github.com/albertollamas-GII">here</a>. </i>  
 </p>
 
 <!-- Social network -->
