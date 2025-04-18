@@ -1,6 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertollamass&label=Profile%20views&color=0e75b6&style=flat" alt="code-oz" /> </p>
-<h1 align="center">Hi I'm Alberto Llamas</h1>
-
+<h1 align="center">👋 Hi there, I'm Alberto</h1>
 <!-- Intro -->
 <!-- [![wakatime](https://wakatime.com/badge/user/36d42806-c096-49ed-9ff4-fd8ef988537e.svg)](https://wakatime.com/@36d42806-c096-49ed-9ff4-fd8ef988537e) -->
 <p style="margin: 15px;" align="center">
