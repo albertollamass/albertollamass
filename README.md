@@ -4,9 +4,8 @@
 <!-- Intro -->
 <!-- [![wakatime](https://wakatime.com/badge/user/36d42806-c096-49ed-9ff4-fd8ef988537e.svg)](https://wakatime.com/@36d42806-c096-49ed-9ff4-fd8ef988537e) -->
 <p style="margin: 15px;" align="center">
-    <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=React.js;Gatsby.js;Flutter;PHP;Django;Ruby+on+Rails" alt="Typing SVG" />
-    <h3 align="center">I am a software engineer and I am dedicated to create and improve applications, write the occasional article or tutorial and I keep learning every day about web development and enjoy working with agile methods such as Scrum.</h3><br/>
-    <i>I could charge students to access my work throught this years in my degree, however I do believe in free learning so you can find all the content I have produced <a href="https://github.com/albertollamas-GII">here</a>. </i>  
+    <h3 align="center">I'm a passionate Full-Stack Developer based in Madrid, Spain 🇪🇸. I studied Computer Engineering at the **University of Granada** and currently work on building scalable web applications using modern technologies.</h3><br/> 
+    <i>I've documented and shared several **projects**, **assignments**, and **notes** from my time at the University of Granada. 🔗 [Check them out here](https://github.com/albertollamas-GII)</i>  
 </p>
 
 <!-- Social network -->
